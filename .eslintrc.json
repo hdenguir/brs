@@ -1,0 +1,8 @@
+{
+    "extends": "react-app",
+    "rules": {
+        "semi": 0,
+        "no-console": 0,
+        "react-hooks/exhaustive-deps": 0
+    }
+}
